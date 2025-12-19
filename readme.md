@@ -21,6 +21,13 @@ Proyecto introductorio o de práctica.
 **Objetivo:**
 El objetivo de este proyecto es practicar y reforzar conocimientos básicos en el desarrollo web utilizando HTML y CSS.
 
+**Instruciones descarga**
+1) Inicar un respositior desde VSCODE 
+2) Utilizar el comando git init para inicializar el repositorio
+3) Utilizar el comando git clone y el codigo ssh proporciado en el repo de git 
+4) Ingresar a el file que se crear automaticamente
+5) Encontraras todo los recuros utilizados para llevar a cabo este proyecto
+
 **Link**
 https://c0dy8.github.io/PRUEBA-HTML-CSS/
 
